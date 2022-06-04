@@ -42,3 +42,26 @@ I can't lie to people even when I'm writing my resume.*
 ### **Education:**
 *Graduated from Brest State Technical University. Specialty: Heat and gas supply, ventilation and protection of the air basin.
 I improved my qualifications once and confirmed it twice.*
+
+### **Skills:**
+* *Git (basic knowledge);*
+* *ОС Windows (intermediate knowledge);*
+* *other:*
+  * *Abode Photoshop (basic knowledge);*
+  * *Blander 3D (basic knowledge);*
+  * *AuroCAD (intermidiate knowledge);*
+  * *video editors (basic knowledge).*
+
+### **Language skills:**
+* *Russian (native language);*
+* *Belarusian (basic knowledge);*
+* *English (Beginner). I'm working on it.*
+
+### **Code Example:**
+```
+function multiply(a, b){
+  a * b
+}
+```
+### **Сompleted projects:**
+* [rsschool-cv](https://ojozloba.github.io/rsschool-cv/cv)

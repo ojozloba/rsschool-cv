@@ -1,5 +1,5 @@
 # **Ivan Liashkevich**
-![Фото](https://sun9-35.userapi.com/s/v1/ig2/vPeQwvJn5jSAdgFEAJtQjaSug7jbdlE5tdRGxFLa4IOnEz9c5hBAoTAQk_ShD0BUDHYUGRHqNiS0eUp9c9aGFbaY.jpg?size=609x720&quality=95&type=album)
+![Фото](https://sun9-17.userapi.com/s/v1/ig2/muedk-EILqy_rL3_RWfjt8f9HiWBt_mfHhCmJsqfWL-KtP4A0VaKi7xm1ukjK0y1B4cxLrIXljCR7oFQhS4B3sCO.jpg?size=181x263&quality=95&type=album)
 ## **Contact Information:**
 
 * **location:** Brest, Belarus

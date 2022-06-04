@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ojozloba.github.io/rsschool-cv/cv

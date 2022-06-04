@@ -11,3 +11,34 @@
   * ojozloba#4149 
 * **Instagram:** [@ojozloba](https://www.instagram.com/ojozloba/)
 * **Telegram:** [@ojozloba](https://t.me/ojozloba)
+
+## **About Me:**
+*I am 25. I am currently working on AutoCAD. I design networks and gas supply systems for boiler houses and mini-boiler houses.
+I love reading books, learning new things and working on myself. I strive for perfection, but I'm still at the beginning of this journey. Sedentary work is not very healthy, so I make my own diet and exercise. 
+I can't lie to people even when I'm writing my resume.*
+
+> *There are no ideal people.*
+
+**So here is my disadvantages:**
+* *slowness;*
+* *I'm not interested in many things that other human are interested in;*
+* *fear when dealing with people;*
+* *inattention;*
+* *I did not study well at school, so I do not have many basic knowledge.*
+
+**List of my advantages:**
+* *diligence;*
+* *perseverance;*
+* *the desire to develop and learn new things;*
+* *politeness;*
+* *phlegmatic (temperament);*
+* *I can work without emotional burnout;*
+* *I can carefully read and understand information;*
+* *I do not see bad in people;*
+* *modesty.*
+
+*I have never done programming in my life, but I sincerely believe that this is exactly the test that I need to pass.*
+
+### **Education:**
+*Graduated from Brest State Technical University. Specialty: Heat and gas supply, ventilation and protection of the air basin.
+I improved my qualifications once and confirmed it twice.*

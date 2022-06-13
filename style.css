@@ -1,0 +1,57 @@
+h1 {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #000;
+    text-align: center;
+}
+
+h2 {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #000;
+    text-align: left;
+}
+
+h3 {
+    font: normal bold Arial, sans-serif;
+    font-variant: normal;
+    color: #000;
+    text-align: left;
+}
+
+p {
+    font: normal normal 14px Arial, sans-serif; 
+    line-height: 21px;
+    color: #3A3A3A;
+    text-align: justify;
+}
+    
+ul {
+    font: normal normal 14px Arial, sans-serif; 
+    line-height: 21px;
+    color: #3A3A3A;
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+    color: #000;
+}
+
+.italic {    
+    font-style: italic;
+}
+    
+.right {
+    text-align: right;    
+}
+
+.border {  
+    border: 4mm dashed rgba(0, 0, 0, .7);
+    margin: 10px;
+}
+    
+div {
+    padding: 30 px 20 px;
+}

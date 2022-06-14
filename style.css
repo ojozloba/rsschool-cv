@@ -17,16 +17,13 @@ body {
 }
 
 img {
-  position: absolute;
-  top: 100px;
-  left: 520px;
-  height: 300px; /* Высота блока */
-  width: 500px;
-  border: 10px solid #fff; /* Параметры рамки */
-  margin: 0;
-  height: 100%;
-  display: table-cell;
-  vertical-align: middle;
+    position: absolute;
+    top: 100px;
+    left: 520px;
+    height: 300px; /* Высота блока */
+    width: 500px;
+    border: 10px solid #fff; /* Параметры рамки */
+    vertical-align: middle;
 }
 
 h1 {

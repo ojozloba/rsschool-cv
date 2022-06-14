@@ -1,0 +1,108 @@
+body {
+  background: #000;
+  width: 1000px;
+}
+
+img {
+  position: absolute;
+  top: 100px;
+  left: 35px;
+  height: 300px; /* Высота блока */
+  width: 500px;
+  border: 10px solid #fff; /* Параметры рамки */
+}
+
+h1 {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #fff;
+    text-align: center;
+    line-height: 10px;
+}
+.italic-h1 {    
+    font-style: italic;
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #fff;
+    text-align: center;
+    line-height: 0px;
+}
+
+h2 {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #fff;
+    text-align: left;
+}
+
+h3 {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #fff;
+    text-align: left;
+}
+
+p {
+    font: normal normal 14px Arial, sans-serif; 
+    line-height: 21px;
+    color: #fff;
+    text-align: justify;
+}
+    
+ul {
+    font: normal normal 14px Arial, sans-serif; 
+    line-height: 21px;
+    color: #fff;
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+    color: #fff;
+}
+
+.italic {    
+    font-style: italic;
+}
+    
+.right {
+    text-align: right;    
+}
+
+.border {  
+    border: 4mm dashed rgba(0, 0, 0, .7);
+    margin: 10px;
+}
+    
+nav {
+    font: normal bold Arial, sans-serif;
+    font-variant: small-caps;
+    color: #fff;
+    text-align: center;
+}
+
+a {
+  font: normal bold Arial, sans-serif;
+  text-transform: uppercase;
+  color: #000;
+  margin: 0px; /* Отступ слева */
+  padding: 0px; /* Поля вокруг текста */
+  text-decoration: none; /*убрать подчеркивание*/
+  margin-bottom: -15px;
+  }
+
+.horizontally {
+  padding: 5px; /* Поля вокруг текста */
+  display: flex; /* Контейнер */
+  font: 1.5em arial; /* размер и шрифт */
+  list-style: none; /* убрать маркер */
+  margin: 5px; /* поля вокруг текста */
+  position: relative;
+  top: 50px;
+  left: 500px;
+  background: #fff;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  width: 500px;
+}

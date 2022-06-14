@@ -1,4 +1,12 @@
 # **Ivan Liashkevich**
+
+* **Contact**
+* **About me**
+* **Education**
+* **Skills**
+* **My Code**
+* **Projects**
+
 ![Фото](https://sun9-17.userapi.com/s/v1/ig2/muedk-EILqy_rL3_RWfjt8f9HiWBt_mfHhCmJsqfWL-KtP4A0VaKi7xm1ukjK0y1B4cxLrIXljCR7oFQhS4B3sCO.jpg?size=181x263&quality=95&type=album)
 ## **Contact Information:**
 
@@ -13,37 +21,35 @@
 * **Telegram:** [@ojozloba](https://t.me/ojozloba)
 
 ## **About Me:**
-*I am 25. I am currently working on AutoCAD. I design networks and gas supply systems for boiler houses and mini-boiler houses.
-I love reading books, learning new things and working on myself. I strive for perfection, but I'm still at the beginning of this journey. Sedentary work is not very healthy, so I make my own diet and exercise. 
-I can't lie to people even when I'm writing my resume.*
+*I am 25 years old. I am currently working as a designer of gas networks and systems. I don't like what I do and how I live. So I decided to take on the biggest challenge of my life - to become a FRONT-END developer.*
 
-> *There are no ideal people.*
-
-**So here is my disadvantages:**
+*I can't lie to people even when I'm writing my resume.*
+**So here is my list of disadvantages:**
 * *slowness;*
-* *I'm not interested in many things that other human are interested in;*
-* *fear when dealing with people;*
-* *inattention;*
-* *I did not study well at school, so I do not have many basic knowledge.*
+* *I have stage fright;*
+* *unsociability;*
+* *inattention (I'm working on it);*
+* *naivety.*
 
-**List of my advantages:**
-* *diligence;*
-* *perseverance;*
-* *the desire to develop and learn new things;*
-* *politeness;*
-* *phlegmatic (temperament);*
-* *I can work without emotional burnout;*
-* *I can carefully read and understand information;*
-* *I do not see bad in people;*
-* *modesty.*
+**Now let's move on to the benefits:**
+* *by hiring me you get all of me;*
+* *diligence, diligence, perseverance;*
+* *desire to develop, curiosity;*
+* *politeness, good manners;*
+* *I am phlegmatic (temperament);*
+* *I can work without burnout;*
+* *I can read and understand the information carefully;*
+* *I don't see anything wrong with people;*
+* *I'm afraid of work, but I do it;*
+* *I'm very humble.*
 
-*I have never done programming in my life, but I sincerely believe that this is exactly the test that I need to pass.*
+> I'm not perfect, but life is not heaven.
 
-### **Education:**
-*Graduated from Brest State Technical University. Specialty: Heat and gas supply, ventilation and protection of the air basin.
-I improved my qualifications once and confirmed it twice.*
+## **Education:**
+*I received a higher engineering education after graduating from Brest State Technical University in 2019. In the fall of 2019, I took advanced training courses at the "Gas-Institute" in Brest. In 2019 and 2021, I confirmed my qualifications by passing the Gospromnadzor exam.
+I don't have any education related to IT.*
 
-### **Skills:**
+## **Skills:**
 * *Git (basic knowledge);*
 * *ОС Windows (intermediate knowledge);*
 * *other:*
@@ -52,16 +58,17 @@ I improved my qualifications once and confirmed it twice.*
   * *AuroCAD (intermidiate knowledge);*
   * *video editors (basic knowledge).*
 
-### **Language skills:**
-* *Russian (native language);*
+## **Language skills:**
+* *Russian (native);*
 * *Belarusian (basic knowledge);*
+* *Ukrain (basic knowledge);*
 * *English (Beginner). I'm working on it.*
 
-### **Code Example:**
+## **Code Example:**
 ```
 function multiply(a, b){
-  a * b
+  return a * b
 }
 ```
-### **Сompleted projects:**
+## **Сompleted projects:**
 * [rsschool-cv](https://ojozloba.github.io/rsschool-cv/cv)

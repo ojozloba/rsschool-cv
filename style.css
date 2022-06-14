@@ -100,6 +100,7 @@ ul {
     top: 0px;
     left: 690px;
     width: 930px;
+    color: #8A8A8A;
 }
     
 .right {
@@ -128,6 +129,11 @@ a {
   margin-bottom: -15px;
   }
 
+.wight {
+  color: #ff2;
+  text-transform: lowercase;
+  text-decoration: underline;
+}
 .horizontally {
   padding: 5px; /* Поля вокруг текста */
   display: flex; /* Контейнер */

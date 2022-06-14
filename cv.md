@@ -1,4 +1,12 @@
 # **Ivan Liashkevich**
+
+* **Contact**
+* **About me**
+* **Education**
+* **Skills**
+* **My Code**
+* **Projects**
+
 ![Фото](https://sun9-17.userapi.com/s/v1/ig2/muedk-EILqy_rL3_RWfjt8f9HiWBt_mfHhCmJsqfWL-KtP4A0VaKi7xm1ukjK0y1B4cxLrIXljCR7oFQhS4B3sCO.jpg?size=181x263&quality=95&type=album)
 ## **Contact Information:**
 
@@ -37,11 +45,11 @@
 
 > I'm not perfect, but life is not heaven.
 
-### **Education:**
-*Graduated from Brest State Technical University. Specialty: Heat and gas supply, ventilation and protection of the air basin.
-I improved my qualifications once and confirmed it twice.*
+## **Education:**
+*I received a higher engineering education after graduating from Brest State Technical University in 2019. In the fall of 2019, I took advanced training courses at the "Gas-Institute" in Brest. In 2019 and 2021, I confirmed my qualifications by passing the Gospromnadzor exam.
+I don't have any education related to IT.*
 
-### **Skills:**
+## **Skills:**
 * *Git (basic knowledge);*
 * *ОС Windows (intermediate knowledge);*
 * *other:*
@@ -50,17 +58,17 @@ I improved my qualifications once and confirmed it twice.*
   * *AuroCAD (intermidiate knowledge);*
   * *video editors (basic knowledge).*
 
-### **Language skills:**
+## **Language skills:**
 * *Russian (native);*
 * *Belarusian (basic knowledge);*
 * *Ukrain (basic knowledge);*
 * *English (Beginner). I'm working on it.*
 
-### **Code Example:**
+## **Code Example:**
 ```
 function multiply(a, b){
   return a * b
 }
 ```
-### **Сompleted projects:**
+## **Сompleted projects:**
 * [rsschool-cv](https://ojozloba.github.io/rsschool-cv/cv)

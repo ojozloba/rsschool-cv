@@ -14,7 +14,7 @@ h2 {
 
 h3 {
     font: normal bold Arial, sans-serif;
-    font-variant: normal;
+    font-variant: small-caps;
     color: #000;
     text-align: left;
 }
@@ -54,4 +54,8 @@ ul {
     
 div {
     padding: 30 px 20 px;
+}
+
+.menu {
+    
 }

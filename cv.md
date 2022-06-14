@@ -13,31 +13,29 @@
 * **Telegram:** [@ojozloba](https://t.me/ojozloba)
 
 ## **About Me:**
-*I am 25. I am currently working on AutoCAD. I design networks and gas supply systems for boiler houses and mini-boiler houses.
-I love reading books, learning new things and working on myself. I strive for perfection, but I'm still at the beginning of this journey. Sedentary work is not very healthy, so I make my own diet and exercise. 
-I can't lie to people even when I'm writing my resume.*
+*I am 25 years old. I am currently working as a designer of gas networks and systems. I don't like what I do and how I live. So I decided to take on the biggest challenge of my life - to become a FRONT-END developer.*
 
-> *There are no ideal people.*
-
-**So here is my disadvantages:**
+*I can't lie to people even when I'm writing my resume.*
+**So here is my list of disadvantages:**
 * *slowness;*
-* *I'm not interested in many things that other human are interested in;*
-* *fear when dealing with people;*
-* *inattention;*
-* *I did not study well at school, so I do not have many basic knowledge.*
+* *I have stage fright;*
+* *unsociability;*
+* *inattention (I'm working on it);*
+* *naivety.*
 
-**List of my advantages:**
-* *diligence;*
-* *perseverance;*
-* *the desire to develop and learn new things;*
-* *politeness;*
-* *phlegmatic (temperament);*
-* *I can work without emotional burnout;*
-* *I can carefully read and understand information;*
-* *I do not see bad in people;*
-* *modesty.*
+**Now let's move on to the benefits:**
+* *by hiring me you get all of me;*
+* *diligence, diligence, perseverance;*
+* *desire to develop, curiosity;*
+* *politeness, good manners;*
+* *I am phlegmatic (temperament);*
+* *I can work without burnout;*
+* *I can read and understand the information carefully;*
+* *I don't see anything wrong with people;*
+* *I'm afraid of work, but I do it;*
+* *I'm very humble.*
 
-*I have never done programming in my life, but I sincerely believe that this is exactly the test that I need to pass.*
+> I'm not perfect, but life is not heaven.
 
 ### **Education:**
 *Graduated from Brest State Technical University. Specialty: Heat and gas supply, ventilation and protection of the air basin.
@@ -53,14 +51,15 @@ I improved my qualifications once and confirmed it twice.*
   * *video editors (basic knowledge).*
 
 ### **Language skills:**
-* *Russian (native language);*
+* *Russian (native);*
 * *Belarusian (basic knowledge);*
+* *Ukrain (basic knowledge);*
 * *English (Beginner). I'm working on it.*
 
 ### **Code Example:**
 ```
 function multiply(a, b){
-  a * b
+  return a * b
 }
 ```
 ### **Сompleted projects:**

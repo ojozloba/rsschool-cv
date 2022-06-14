@@ -7,7 +7,7 @@
 * **My Code**
 * **Projects**
 
-![Фото](https://sun9-17.userapi.com/s/v1/ig2/muedk-EILqy_rL3_RWfjt8f9HiWBt_mfHhCmJsqfWL-KtP4A0VaKi7xm1ukjK0y1B4cxLrIXljCR7oFQhS4B3sCO.jpg?size=181x263&quality=95&type=album)
+![Фото](photo1.png)
 ## **Contact Information:**
 
 * **location:** Brest, Belarus

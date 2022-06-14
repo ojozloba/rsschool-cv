@@ -152,3 +152,29 @@ a {
 code {
   color: #fff;
 }
+
+footer {
+  padding: 5px; /* Поля вокруг текста */
+  font: 1.5em arial; /* размер и шрифт */
+  list-style: none; /* убрать маркер */
+  margin: 5px; /* поля вокруг текста */
+  position: relative;
+  top: 100px;
+  left: 22px;
+  width: 1020px;
+  background: #fff;
+}
+
+.footer {
+  font: normal bold 45px Arial, sans-serif; 
+  line-height: 21px;
+  color: #000;
+  text-align: justify;
+  position: relative;
+  top: 7px;
+  left: 20px;
+}
+
+section {
+  text-align: center;
+}

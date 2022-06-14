@@ -51,6 +51,8 @@ I don't have any education related to IT.*
 
 ## **Skills:**
 * *Git (basic knowledge);*
+* *HTML (basic knowledge);*
+* *CSS (basic knowledge);*
 * *ОС Windows (intermediate knowledge);*
 * *other:*
   * *Abode Photoshop (basic knowledge);*
